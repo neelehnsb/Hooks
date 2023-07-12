@@ -22,7 +22,7 @@ function Com1(){
         if(ind!==-1){
             state.splice(ind,1)
         }else{
-            alert("item not found in database")
+            alert("item not found in database please input correct details")
         }
 
         setState([...state])
