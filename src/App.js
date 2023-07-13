@@ -1,11 +1,11 @@
 import './App.css';
-import Com1 from './Components/com1';
+import Com3 from './Components/com3';
 
 function App() {
 
   return (
     <div>
-      <Com1/>
+      <Com3/>
     </div>
     
   );
